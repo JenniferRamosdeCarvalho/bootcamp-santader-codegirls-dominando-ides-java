@@ -1,11 +1,13 @@
 # bootcamp-santader-codegirls-dominando-ides-java
-# teste repository
+# teste repository - Calculadora em Java IDE Eclipse 
 
-package codegirls.calculadora;
 
-import java.util.Scanner;
 
-public class Calculadora {
+  package codegirls.calculadora;
+
+  import java.util.Scanner;
+
+  public class Calculadora {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
